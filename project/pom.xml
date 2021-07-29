@@ -20,8 +20,6 @@
     </dependencies>
 
     <build>
-        <pluginManagement>
-            <plugins>
 <pluginManagement>
     <plugins>
         <plugin>
