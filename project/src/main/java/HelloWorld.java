@@ -10,7 +10,10 @@
 
 public class HelloWorld {
 
-    public void sayhello() {
+    public void sayHello() {
+        System.out.println("Hello World!");
+    }
+    public void sayHello() {
         System.out.println("Hello World!");
     }
 
