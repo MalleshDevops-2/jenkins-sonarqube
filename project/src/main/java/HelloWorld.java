@@ -9,7 +9,7 @@
 
 
 public class HelloWorld {
-    String name='null';
+    String name=null;
     
     public void sayHello() {
         System.out.println("Hello World!");
