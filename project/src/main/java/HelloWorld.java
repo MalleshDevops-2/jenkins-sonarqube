@@ -9,14 +9,12 @@
 
 
 public class HelloWorld {
-
+    string name='null';
+    
     public void sayHello() {
         System.out.println("Hello World!");
     }
-    public void sayHello() {
-        System.out.println("Hello World!");
-    }
-
+   
     public void notCovered() {
         System.out.println("This method is not covered by unit tests");
     }
